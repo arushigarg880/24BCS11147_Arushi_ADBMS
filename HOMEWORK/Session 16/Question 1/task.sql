@@ -1,0 +1,2 @@
+-- Introduction - Combining tables manually: correct answer is Karen Kim.
+-- David Lee -> MAT202 -> Prof_id 2002 -> Karen Kim.

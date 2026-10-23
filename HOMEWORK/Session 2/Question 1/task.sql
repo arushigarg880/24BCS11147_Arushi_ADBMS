@@ -1,0 +1,2 @@
+-- Primary Key vs Foreign Key: the correct statement is option 2.
+-- A foreign key is a field in one table that refers to the primary key of another table.

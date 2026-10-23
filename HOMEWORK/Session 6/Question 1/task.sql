@@ -1,0 +1,2 @@
+-- Union All: correct answer is option 1.
+-- UNION removes duplicate rows; UNION ALL keeps all rows, including duplicates.

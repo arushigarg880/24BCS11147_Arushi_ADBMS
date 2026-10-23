@@ -1,0 +1,2 @@
+-- IS NULL / IS NOT NULL: correct statements are options 1, 2 and 3.
+-- IS NULL returns NULL rows; IS NOT NULL returns non-NULL rows; both work with any data type.
